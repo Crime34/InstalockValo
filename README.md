@@ -101,11 +101,10 @@ valo/
 ├── automator.py         # Automation logic (clicks)
 ├── config_manager.py    # Configuration management
 ├── config.json          # Agent and LOCK button positions
+├── requirements.txt     # Python dependencies
 ├── ValoInstalock.vbs    # Silent launcher
-├── analyze_reyna.py     # Analysis utility (development)
-├── auto_config.py       # Auto configuration (development)
-├── check_screen.py      # Screen verification (development)
-└── venv/                # Python virtual environment
+├── README.md            # Documentation (English)
+└── README.fr.md         # Documentation (French)
 ```
 
 ## ⚙️ Configuration
@@ -192,3 +191,4 @@ For any questions or suggestions, open an issue on the [GitHub repository](https
 ---
 
 **Disclaimer**: This tool is a personal project for educational purposes. The author is not responsible for any consequences related to its use.
+
