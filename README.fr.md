@@ -90,15 +90,14 @@ Le statut affichera :
 
 ```
 valo/
-├── main.py              # Application principale avec interface GUI
-├── automator.py         # Logique d'automation (clics)
-├── config_manager.py    # Gestion de la configuration
-├── config.json          # Positions des agents et du bouton LOCK
-├── ValoInstalock.vbs    # Lanceur silencieux
-├── analyze_reyna.py     # Utilitaire d'analyse (développement)
-├── auto_config.py       # Configuration automatique (développement)
-├── check_screen.py      # Vérification d'écran (développement)
-└── venv/                # Environnement virtuel Python
+├── main.py              # Main application with GUI
+├── automator.py         # Automation logic (clicks)
+├── config_manager.py    # Configuration management
+├── config.json          # Agent and LOCK button positions
+├── requirements.txt     # Python dependencies
+├── ValoInstalock.vbs    # Silent launcher
+├── README.md            # Documentation (English)
+└── README.fr.md         # Documentation (French)
 ```
 
 ## ⚙️ Configuration
@@ -185,3 +184,4 @@ Pour toute question ou suggestion, ouvrez une issue sur le [dépôt GitHub](http
 ---
 
 **Disclaimer** : Cet outil est un projet personnel à but éducatif. L'auteur n'est pas responsable de toute conséquence liée à son utilisation.
+
